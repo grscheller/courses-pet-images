@@ -2,10 +2,10 @@
 
 PyTorch based machine learning.
 
-## Probability distributions completed so far
+## PyTorch Machine Learning (ML)
 
-* class Gaussian from the grscheller\_courses\_distributions.gaussian module
-* class Binomial from the grscheller\_courses\_distributions.binomial module
+* identify pets with ML
+* not sure if `pet_images/` is the training set or not
  
 ## Factoids
 
@@ -19,8 +19,8 @@ PyTorch based machine learning.
 
 ## Testing
 
-The testing suite is in the GitHub clone, it is not installed with the
-package.
+The testing suite will be in the GitHub clone, it will not be installed
+with the package. Not sure what I will be doing for this.
 
 To kick off all tests,
 
